@@ -1,6 +1,7 @@
-xdr - Python Multi-Tool
+Python Multi-Tool
 
-xdr is a versatile Python multi-tool designed for various hacking and cybersecurity tasks. It provides a command-line interface with six distinct options to perform different actions, making it a powerful tool for penetration testing, ethical hacking, and cybersecurity research.
+    xdr is a versatile Python multi-tool designed for various hacking and cybersecurity tasks. It provides a command-line interface with six distinct options to perform different actions, making it a powerful tool for penetration testing, ethical hacking, and cybersecurity research.
+    
 Features
 
     Remote_Command: Execute remote commands on target systems securely. This option allows you to interact with remote systems and perform various commands.
@@ -13,9 +14,8 @@ Features
 
     Contact: Connect with the developers and report issues, feedback, or suggestions. Stay informed about updates and contribute to the improvement of xdr.
 
-    Exit: Safely exit the XDR multi-tool.
-
 Getting Started
+
 Prerequisites
 
     Python 3.x
