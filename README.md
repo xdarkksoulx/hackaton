@@ -1,5 +1,4 @@
 xdr - Python Multi-Tool
-Overview
 
 xdr is a versatile Python multi-tool designed for various hacking and cybersecurity tasks. It provides a command-line interface with six distinct options to perform different actions, making it a powerful tool for penetration testing, ethical hacking, and cybersecurity research.
 Features
@@ -23,11 +22,16 @@ Prerequisites
     Dependencies (specified in requirements.txt)
 
 Installation
+
 Step 1: Clone the Repository
+
     git clone https://github.com/your-username/xdr.git
 Step 2: Navigate to the Project Directory
+
     cd xdr
 Step 3: Install Dependencies
+
     pip install -r requirements.txt
 Step 4: Run app.py
+
     python app.py
