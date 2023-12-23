@@ -1,0 +1,9 @@
+
+     ==================================================
+          	   Encryptor / Decryptor
+     ==================================================
+     
+     1. Encrypt  encrypt a file with a key  
+     2. Decrypt  decrypt a file with a key
+     3. All      encrypt and decrypt file
+     4. Exit
