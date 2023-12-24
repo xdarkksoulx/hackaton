@@ -35,3 +35,6 @@ Step 3: Install Dependencies
 Step 4: Run app.py
 
     python app.py
+
+Steganography Explaination: 
+    https://www.loom.com/share/26082fe5466c493799f002e7ece6bcd1
