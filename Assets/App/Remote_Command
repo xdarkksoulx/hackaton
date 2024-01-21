@@ -1,8 +1,0 @@
-
-     ==================================================
-          	   Remote Command Server
-     ==================================================
-     
-     1. Master.py  acces control server 
-     2. Slave.py   controled by master
-     3. Exit
